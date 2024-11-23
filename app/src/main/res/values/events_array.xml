@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_types_array">
+        <item>Hospitals</item>
+        <item>Marriage</item>
+        <item>Hackathon</item>
+        <item>Bank</item>
+        <item>Educational</item>
+        <item>Police</item>
+        <item>Parking</item>
+    </string-array>
+
+</resources>

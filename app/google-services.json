@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639070497226",
+    "project_id": "events-locator-bb182",
+    "storage_bucket": "events-locator-bb182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639070497226:android:3713355f65d49570a1c733",
+        "android_client_info": {
+          "package_name": "com.Reva_Events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjs0Hz94LgHrdFzFGjxZbOpXnQ-AQpQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

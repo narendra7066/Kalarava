@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalarava</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_api_key">AIzaSyBPIUMX05Di24qGOo9jBjcXO7sZqTL52qA</string>
+
+    <string name="title_activity_organize_mapper">OrganizeMapper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
